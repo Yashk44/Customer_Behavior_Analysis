@@ -24,7 +24,7 @@ This project analyzes customer purchasing behavior to identify patterns that imp
 
 ## Methodology
 
-* Loaded and explored dataset using Pandas (`head`, `info`, `describe`)
+* Loaded and explored dataset using Pandas
 * Cleaned data by handling missing values and standardizing column names
 * Performed feature engineering (age groups and purchase frequency conversion)
 * Integrated dataset with PostgreSQL using SQLAlchemy and psycopg2
