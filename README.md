@@ -66,4 +66,4 @@ This project analyzes customer purchasing behavior to identify patterns that imp
 
 ## Outcome
 
-This project demonstrates practical skills in data cleaning, SQL-based analysis, and dashboard development to derive actionable business insights.
+Demonstrates practical skills in data cleaning, SQL analysis, and dashboard development to generate actionable business insights.
